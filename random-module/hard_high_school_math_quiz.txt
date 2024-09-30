@@ -1,0 +1,108 @@
+What is the value of pi up to two decimal places?
+3.14
+What is the square root of 169?
+13
+What is the derivative of sin(x)?
+cos(x)
+What is the integral of 1/x?
+ln|x| + C
+What is the sum of the angles in a quadrilateral?
+360
+Solve the equation 5x + 7 = 2x + 13.
+x = 2
+What is the area of a triangle with base 10 and height 6?
+30
+What is the cube root of 27?
+3
+What is the value of e (Euler's number) up to two decimal places?
+2.71
+What is the factorial of 5?
+120
+What is the limit of (1 + 1/n)^n as n approaches infinity?
+e
+What is the sum of the first 10 natural numbers?
+55
+What is the value of cos(0°)?
+1
+What is the sum of the interior angles of a pentagon?
+540
+What is the slope of the line y = 3x + 7?
+3
+What is the determinant of a 2x2 matrix [a, b; c, d]?
+ad - bc
+What is the derivative of e^x?
+e^x
+What is the eigenvalue of the matrix [3, 1; 0, 2]?
+3 and 2
+What is the sum of the first 20 positive integers?
+210
+What is the binomial coefficient "n choose k" when n=5 and k=2?
+10
+What is the dot product of vectors [1, 2, 3] and [4, 5, 6]?
+32
+What is the angle between two perpendicular vectors?
+90
+What is the LCM (Least Common Multiple) of 8 and 12?
+24
+What is the solution to the inequality 3x - 5 > 7?
+x > 4
+What is the probability of flipping two heads in a row with a fair coin?
+1/4
+What is the value of cos(pi/3)?
+1/2
+What is the magnitude of the vector [3, 4]?
+5
+What is the median of the set {7, 8, 12, 13, 14}?
+12
+What is the value of tan(45°)?
+1
+What is the volume of a cylinder with radius 3 and height 5 in terms of pi?
+45pi
+What is the discriminant of the quadratic equation 2x^2 - 4x + 1 = 0?
+4
+What is the Fibonacci number F(8)?
+21
+What is the trace of a 2x2 matrix [a, b; c, d]?
+a + d
+What is the derivative of ln(x^2)?
+2/x
+What is the value of 0! (zero factorial)?
+1
+What is the radius of convergence of the power series 1 + x + x^2 + x^3 + ...?
+1
+What is the value of sin(pi/6)?
+1/2
+What is the least common denominator of 1/2 and 1/3?
+6
+What is the third derivative of x^3?
+6
+What is the sum of the exterior angles of any polygon?
+360
+What is the determinant of a 3x3 identity matrix?
+1
+What is the rank of a 2x2 matrix with linearly dependent rows?
+1
+What is the modulus of the complex number 3 + 4i?
+5
+What is the sum of an infinite geometric series with first term 2 and common ratio 1/3?
+3
+What is the number of permutations of 5 objects taken 3 at a time?
+60
+What is the value of cos(2pi/3)?
+-1/2
+What is the surface area of a sphere with radius 4?
+64pi
+What is the value of tan(pi/4)?
+1
+What is the value of sin(0)?
+0
+What is the value of log base 2 of 16?
+4
+What is the harmonic mean of 2 and 4?
+8/3
+What is the value of cos(0)?
+1
+What is the sum of the infinite series 1/2 + 1/4 + 1/8 + ...?
+1
+What is the value of the integral ∫0 to 1 (x^3) dx?
+1/4
