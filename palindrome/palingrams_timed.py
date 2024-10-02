@@ -1,3 +1,11 @@
+''' 
+- another way to time the program is to use time.time(), which returns an epoch timestamp ( since January 1, 1970, 00:00:00 UTC )
+'''
+
+
+import time
+start_time = time.time()
+
 ''' The sys module in Python provides functions and variables to interact with the Python interpreter and the system environment '''
 import sys
 
@@ -17,7 +25,7 @@ def load(text_file):
         print(f'{e}\nError opening {text_file}', file=sys.stderr)
         sys.exit()
 
-word_list = load('palindrome/words.txt') # http://greenteapress.com/thinkpython2/code/words.txt
+word_list = load('palindrome/words2.txt') # http://greenteapress.com/thinkpython2/code/words.txt
 
 
 # find word pair palingrams
@@ -44,3 +52,6 @@ print(f"\nNumber of palingrams = {len(palingrams_sorted)}")
 
 for first,second in palingrams_sorted: # Loop through and print each palingram pair
     print(f"{first} {second}")
+
+end_time = time.time()
+print(f"Runtime for this program was {end_time - start_time} seconds")
